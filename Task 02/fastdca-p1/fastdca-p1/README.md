@@ -181,14 +181,5 @@ Common issues and solutions:
    - Check if dependencies are installed
    - Verify Python path settings
 
-## License
-
-[Add your license information here]
-
-## Contributing
-
-[Add contribution guidelines here]
-
----
 
 For more information about FastAPI, visit the [official documentation](https://fastapi.tiangolo.com/).
